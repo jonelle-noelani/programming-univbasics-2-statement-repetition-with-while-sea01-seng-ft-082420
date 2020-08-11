@@ -1,5 +1,5 @@
 # Write your code herecount = 10
-
+def countdown
 count = 10
 while count >= 1 do 
   puts count
